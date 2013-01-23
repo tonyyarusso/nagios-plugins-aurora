@@ -1,0 +1,15 @@
+Check plugin for Auroral activity
+Copyright:  2010, Tony Yarusso
+Author:     Tony Yarusso <tonyyarusso@gmail.com>
+License:    BSD <http://www.opensource.org/licenses/bsd-license.php>
+
+Options:
+    -h | --help
+           Display this help text
+    -v | --version
+           Display the version of this script
+    -w | --warning <level>
+           The activity level to trigger a warning state [1-10, Default=7]
+    -c | --critical <level>
+           The activity level to trigger a critical state [1-10, Default=9]
+
